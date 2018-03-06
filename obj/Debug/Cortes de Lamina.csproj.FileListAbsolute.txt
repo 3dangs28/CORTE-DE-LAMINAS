@@ -1,0 +1,31 @@
+c:\users\erick\documents\visual studio 2012\Projects\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.dll
+c:\users\erick\documents\visual studio 2012\Projects\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.pdb
+c:\users\erick\documents\visual studio 2012\Projects\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2012\Projects\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+c:\users\erick\documents\visual studio 2012\Projects\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
+E:\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.dll
+E:\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.pdb
+E:\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+E:\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+E:\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
+C:\Users\Dosty\Desktop\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.dll
+C:\Users\Dosty\Desktop\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.pdb
+C:\Users\Dosty\Desktop\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+C:\Users\Dosty\Desktop\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+C:\Users\Dosty\Desktop\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
+C:\Desarrollo\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.dll
+C:\Desarrollo\Cortes de Lamina\Cortes de Lamina\bin\Cortes de Lamina.pdb
+C:\Desarrollo\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+C:\Desarrollo\Cortes de Lamina\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
+C:\Users\Dostyn\Documents\Desarrollo\RDS\Proyectos\Cortes de Lamina\bin\Cortes de Lamina.dll
+C:\Users\Dostyn\Documents\Desarrollo\RDS\Proyectos\Cortes de Lamina\bin\Cortes de Lamina.pdb
+C:\Users\Dostyn\Documents\Desarrollo\RDS\Proyectos\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+C:\Users\Dostyn\Documents\Desarrollo\RDS\Proyectos\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+C:\Users\Dostyn\Documents\Desarrollo\RDS\Proyectos\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
+C:\Desarrollo\Cortes de Lamina\bin\Cortes de Lamina.dll.config
+C:\Desarrollo\Cortes de Lamina\bin\Cortes de Lamina.dll
+C:\Desarrollo\Cortes de Lamina\bin\Cortes de Lamina.pdb
+C:\Desarrollo\Cortes de Lamina\obj\Debug\Cortes de Lamina.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Cortes de Lamina\obj\Debug\Cortes de Lamina.dll
+C:\Desarrollo\Cortes de Lamina\obj\Debug\Cortes de Lamina.pdb
